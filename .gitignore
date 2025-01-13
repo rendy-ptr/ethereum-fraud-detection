@@ -1,5 +1,6 @@
 # Files
 note.md
+.gitignore
 
 # Folders
 Code/.ipynb_checkpoints/
