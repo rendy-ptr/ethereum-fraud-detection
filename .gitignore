@@ -3,8 +3,4 @@ note.md
 .gitignore
 
 # Folders
-Code/.ipynb_checkpoints/
-Code/catboost_info/
-Models/CAT/catboost_info/
-Test/
-
+Eval/catboost_info
