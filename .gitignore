@@ -3,4 +3,5 @@ note.md
 .gitignore
 
 # Folders
-Eval/catboost_info
+catboost_info
+picture
